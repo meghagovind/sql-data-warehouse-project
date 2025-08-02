@@ -113,7 +113,7 @@ You're welcome to use, modify, and share this project with proper attribution.
 
 ---
 ## 👋 About Me
-Hi!, I’m **Sai Meghana Guthula**, a Master's student in Computer information science with hands-on experience in Data Engineering, data analytics, and cloud technologies. Passionate about turning data into insights and automating workflows, I enjoy solving real-world problems through scalable tech solutions.
+Hi!, I’m **Sai Meghana Guthula**, a Master's student in Computers and information science with hands-on experience in Data Engineering, data analytics, and cloud technologies. Passionate about turning data into insights and automating workflows, I enjoy solving real-world problems through scalable tech solutions.
 
 ### Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meghagovind/)
