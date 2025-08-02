@@ -102,7 +102,7 @@ All tools used are free and publicly available:
 - [**Draw.io**](https://www.drawio.com/) – Diagrams and architecture design  
 - [**GitHub**](https://github.com/) – Version control and collaboration  
 - [**Notion**](https://www.notion.so/) – Project planning and organization  
-- 📋 [**Project Planning (Notion Board)**](https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4)
+- 📋 [**Project Planning (Notion Board)**](https://www.notion.so/Data-Warehouse-Project-240d0222ebc08062b56dd0f148e9b4f6?source=copy_link)
 
 ---
 
